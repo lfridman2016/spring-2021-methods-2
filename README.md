@@ -1,1 +1,1 @@
-# spring-2021-methods-2
+# SEDC 72900: Computer Science Teaching Methods II
