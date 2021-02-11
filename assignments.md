@@ -4,6 +4,18 @@
 #### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
+### Session 1: 2/10
+  * title: **euler**
+  * In a single python file, write solutions to the following project euler problems:
+    - 1, 2, 5, 6
+  * Write a function that returns the solution for each given problem.
+    - for for example, running `problem1(10)` would return `23`
+    - You may write helper functions and organize your code however you'd like.
+  * Answers:
+    - Problem 001: 233168
+    - Problem 002: 4613732
+    - Problem 005: 232792560
+    - Problem 006: 25164150
 
 ### Session 0: 2/03
   * title: **goodnbad**

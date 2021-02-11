@@ -43,9 +43,8 @@ Specific standards coverage:
 
 1. Review of CS Educational experiences
 
-1. Python introduction, environment setup,review of CS learning resources for students and teachers ; review of standards.
-   - Assignment:L review of APCSP and APCSA curricula.
-   -
+1. Python introduction, environment setup, review of standards.
+   - Assignment:
 
 1. Data driven Assignments, using real world data, relevant assignments
     -  Study of NYC Data Mine
@@ -67,6 +66,7 @@ Specific standards coverage:
    - Assignment: Daily Digital
    - IC 1,2.3,4,5
    - CY 2,3
+
 1. Choosing appropriate tools / languages for learning objectives
    - Survey of languages (Scratch, NetLogo, P5js/Processing)
    - Comparison of language strengths to learning outcomes
