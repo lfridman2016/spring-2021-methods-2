@@ -4,6 +4,19 @@
 #### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
+
+### Session 2: 2/17
+  * title: **data**
+  * Create an in-class assignment for using real world data.
+    - You can include a homwork/day 2 extension to it, but it shouldn't be a large project.
+    - This does not need to be a programming assignment.
+  * Create a potential full-credit submission for your assignment.
+  * To submit, create a folder in your classwork repository called **02_data**
+    - Put all the files for your submission here.
+    - Include any solution files (these may vary depending on the assignment).
+    - Put the assignment instructions in a file called README.md
+      - At the top, include a list of other files in this directory along with a description
+
 ### Session 1: 2/10
   * title: **euler**
   * In a single python file, write solutions to the following project euler problems:
