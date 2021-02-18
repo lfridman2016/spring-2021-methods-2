@@ -5,6 +5,9 @@
 In the \#meth2_async channel:
   * Post 2 data sets that are of interest to you.
   * Describe what you would like to do with the data.
+  * Some places to get started:
+      - https://github.com/awesomedata/awesome-public-datasets
+      - https://github.com/rfordatascience/tidytuesday
 
 ### Session 1: 2/10
 In the \#meth2_async curdev channel:
