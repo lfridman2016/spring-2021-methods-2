@@ -6,6 +6,10 @@
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
 
+### Session 3: 2/24
+* Add a new file to your directory from the work for session 02 called **grading.md**
+* Explain how you would grade the assignment you created.
+
 ### Session 2: 2/17
   * title: **data**
   * Create an in-class assignment for using real world data.
