@@ -53,6 +53,10 @@ Specific standards coverage:
 	-  Asisgnment: Design a data driven assignment
 	- CT 1,2,3
 
+2. Assignments and grading.
+   - Types of class assingments, including formal assessments.
+   - Matching grading to measure the purpose of an assignment.
+
 1. Managing a CS class, introduction to differentiating instruction in a CS class, scaffolding
 
    - Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s,
