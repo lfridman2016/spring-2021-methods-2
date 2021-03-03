@@ -40,8 +40,8 @@
 
 ## Problem 6
 Use code to answer the following questions. Your code should print out the answer.
-a) How many people lived in NYC in 2010?
-b) How many people lived in Brooklyn in 1970?
-c) What was the change in total population from 1900 to 2000?
-d) What percentage of the total NYC population did Queens account for in 2010?
-e) Come up with your own question that can be answered using the population data.
+- How many people lived in NYC in 2010?
+- How many people lived in Brooklyn in 1970?
+- What was the change in total population from 1900 to 2000?
+- What percentage of the total NYC population did Queens account for in 2010?
+- Come up with your own question that can be answered using the population data.
