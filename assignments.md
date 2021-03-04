@@ -5,6 +5,13 @@
 #### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
+### Session 4: 3/3
+  * title **think_different**
+    - Open up the python data lab assignment here: https://github.com/hunter-teacher-cert/spring-2021-methods-2/blob/main/resources/04_diff/csv_lab.md
+    - Create a scaffolded python file for this assignment.
+    - Note at the top of your python file what level your scaffolding is designed for.
+    - Also provide a potential extension that you could assign students that complete the assignment quickly.
+    - You can put this all in a python file, or separate some instructions out in a markdown file as well.
 
 ### Session 3: 2/24
 * Add a new file to your directory from the work for session 02 called **grading.md**

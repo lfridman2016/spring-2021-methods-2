@@ -1,5 +1,10 @@
 # Asynchronous Activities
 
+### Session 4: 3/3
+Watch the following video on differentiation (1 hour): https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s
+In the \#meth2_async channel:
+  * Provide 2 specific strategies suggested that you think are useful. What was it about them that appealed to you?
+
 ### Session 3: 2/24
 * Listen to the following podcast on grading (35 minutes): https://sites.duke.edu/csedpodcast/2021/02/15/season-2-episode-4-grading-for-equity/
 * In the \#meth2_async channel:
