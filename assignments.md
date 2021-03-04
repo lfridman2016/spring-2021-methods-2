@@ -12,6 +12,7 @@
     - Note at the top of your python file what level your scaffolding is designed for.
     - Also provide a potential extension that you could assign students that complete the assignment quickly.
     - You can put this all in a python file, or separate some instructions out in a markdown file as well.
+    - For convenience, there is a solution for this lab here: https://github.com/hunter-teacher-cert/spring-2021-methods-2/blob/main/resources/04_diff/csv_lab_solved.py
 
 ### Session 3: 2/24
 * Add a new file to your directory from the work for session 02 called **grading.md**
