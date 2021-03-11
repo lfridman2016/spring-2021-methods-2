@@ -5,6 +5,19 @@
 #### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
+
+### Session 5: 3/10
+  * title **daily_digital**
+  * Go out in the world, and find a piece of current tech news
+    - As Alex noted: relevancy is key, old articles can be "current".
+  * In a markdown document, provide the following informaiton about your news:
+    - source(s)
+    - breif description
+      - cover the major points, imaigne you were going to lead a ~5min discussion on this, what should you cover to do so
+    - why did you select this story?
+  * In addition to your news and writeup, provide 3 websites that you would send students to in order to find good tech news.
+
+
 ### Session 4: 3/3
   * title **think_different**
     - Open up the python data lab assignment here: https://github.com/hunter-teacher-cert/spring-2021-methods-2/blob/main/resources/04_diff/csv_lab.md
