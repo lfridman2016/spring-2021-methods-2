@@ -1,5 +1,8 @@
 # Asynchronous Activities
 
+### Session 5: 3/10
+Work on your [demo lesson snippet](demos.md)
+
 ### Session 4: 3/3
 Watch the following video on differentiation (1 hour): https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s
 In the \#meth2_async channel:

@@ -12,3 +12,4 @@
 
 ### Asynchronous Activities: [async.md](async.md)
 ### Assignments: [assignments.md](assignments.md)
+### Demo Activities: [demos.md](demos.md)
