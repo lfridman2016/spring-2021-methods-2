@@ -6,6 +6,18 @@
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
 
+### Session 6: 3/10
+  * title **strengths**
+  * Select a programming language/tool to create a lesson with.
+  * Create a lesson that demonstrates the strength(s) of the chosen language/tool.
+  * The lesson should have:
+    - Description of a tool to be used and how this lesson is demonstrating its strengths.
+    - Goal/Aim/Objective
+    - Warm up/Do Now/Opening question
+    - Content to be learned
+      - This could take the form of a lesson/mini-lesson, or be built into a planned in class assignment.
+    - Some in-class assignment/practice.
+
 ### Session 5: 3/10
   * title **daily_digital**
   * Go out in the world, and find a piece of current tech news

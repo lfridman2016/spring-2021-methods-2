@@ -1,5 +1,10 @@
 # Asynchronous Activities
 
+### Session 6: 3/17
+In the \#meth2_async channel either:
+  * Think of a language or tool used in either a class you teach or class you have taken. Tell us the tool and the class.
+  * Did the class leverage the strength of that particular tool? How so (or not so)?
+
 ### Session 5: 3/10
 Work on your [demo lesson snippet](demos.md)
 

@@ -81,10 +81,10 @@ Specific standards coverage:
    - DL 2,3,4,5,7
 
 1. Using Collaborative tools
-   -  SysAdmin and SiteAdmin in the CS classroom
-   -   Repl.it / Scratch vs local hosting (pair programming for example)
-   -  Reading: Griffin and Seals
-   -  Assignment: Create github classroom with feedback and grading mechanism
+   - SysAdmin and SiteAdmin in the CS classroom
+   - Repl.it / Scratch vs local hosting (pair programming for example)
+   - Reading: Griffin and Seals
+   - Assignment: Create github classroom with feedback and grading mechanism
    - DL 2,3,4,5,7
 
 1. Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
