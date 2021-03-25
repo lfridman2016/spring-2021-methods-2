@@ -6,7 +6,23 @@
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
 
-### Session 6: 3/10
+### Session 7: 3/24
+  * title **google**
+  * Create a programming task in python that involves using strings and lists in some way.
+    - This desciprtion is purposefully ambiguous to allow for creativity.
+    - The task should involve multiple steps, ~5.
+  * Run a few internet searches that a student might run when presented with your task.
+  * In a markdown file:
+    - Describe the task
+    - For each search you ran provide three links from the results
+      - Provide a critique on the result. Things to consider:
+        - Was it useful?
+        - Was it too simple/complex?
+        - Was it unecessarily compicated?
+        - Did it include copypastable code?
+        - Did you learn from it/could a student learn from it?
+
+### Session 6: 3/17
   * title **strengths**
   * Select a programming language/tool to create a lesson with.
   * Create a lesson that demonstrates the strength(s) of the chosen language/tool.

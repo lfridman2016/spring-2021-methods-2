@@ -41,29 +41,29 @@ Specific standards coverage:
 
 ## Weekly syllabus:
 
-1. Review of CS Educational experiences
+1. [x] Review of CS Educational experiences
 
-1. Python introduction, environment setup, review of standards.
+1. [x] Python introduction, environment setup, review of standards.
    - Assignment:
 
-1. Data driven Assignments, using real world data, relevant assignments
+1. [x] Data driven Assignments, using real world data, relevant assignments
     -  Study of NYC Data Mine
 	-  Other real world data sources
 	-  Integrating student experiences into lessons
 	-  Asisgnment: Design a data driven assignment
 	- CT 1,2,3
 
-2. Assignments and grading.
+2. [x] Assignments and grading.
    - Types of class assingments, including formal assessments.
    - Matching grading to measure the purpose of an assignment.
 
-1. Managing a CS class, introduction to differentiating instruction in a CS class, scaffolding
+1. [x] Managing a CS class, introduction to differentiating instruction in a CS class, scaffolding
 
    - Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s,
    - Assigment: modify the real world data assignment to add differentiation
 
 
-1. Leverageing Current events in computer science
+1. [x] Leverageing Current events in computer science
    - Finding appropriate current events resources
    - Truth in current events resources
    - Bias and ethical concerns in current events resources
@@ -71,7 +71,7 @@ Specific standards coverage:
    - IC 1,2.3,4,5
    - CY 2,3
 
-1. Choosing appropriate tools / languages for learning objectives
+1. [x] Choosing appropriate tools / languages for learning objectives
    - Survey of languages (Scratch, NetLogo, P5js/Processing)
    - Comparison of language strengths to learning outcomes
    - Environmental extras (Scratch and Repl.it's network
@@ -80,34 +80,34 @@ Specific standards coverage:
      strength to enhance student learning of CS.
    - DL 2,3,4,5,7
 
-1. Using Collaborative tools
+1. [ ] Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
+  - verifying assignments and student work
+  - good vs bad resources for students (stack overflow)
+  - Reading: Calif and Goodwin
+
+1. [ ] Using Collaborative tools
    - SysAdmin and SiteAdmin in the CS classroom
    - Repl.it / Scratch vs local hosting (pair programming for example)
    - Reading: Griffin and Seals
    - Assignment: Create github classroom with feedback and grading mechanism
    - DL 2,3,4,5,7
 
-1. Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
-   - verifying assignments and student work
-   - good vs bad resources for students (stack overflow)
-   - Reading: Calif and Goodwin
-
-1. Learning by getting things wrong
+1. [ ] Learning by getting things wrong
    - test driven development
    - discovery learning
    - Reading: Selections from Shore and Watson
    - CT 9
    - NSD 3
 
-1. HW , Assessment, and project design
+1. [ ] HW , Assessment, and project design
    - Spirlaing in CS
    - multi-stage assignments
    - Assignment management over time
    - Assignment types: programming, code analysis, Parsons problems etc.
 
-1.  Code review as a pedagogical tool
+1. [ ] Code review as a pedagogical tool
 
-1. Code reading
+1. [ ] Code reading
    -  incremental problems
    -  leveraging existing code
    -  code and documentation reading
@@ -115,15 +115,15 @@ Specific standards coverage:
    -  Reading: Santo
    - CT 4,5,7
 
-1. Teaching CS problem solving strategies
+1. [ ] Teaching CS problem solving strategies
    -  Decomposing problems
    -  Code tracing
    -  Usign examples
    -  Defining subproblems
 
 
-1. Student Sample Lessons
-1. Student Sample Lessons
+1. [ ] Student Sample Lessons
+1. [ ] Student Sample Lessons
 
 
 
