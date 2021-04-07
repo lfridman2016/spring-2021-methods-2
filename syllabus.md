@@ -87,8 +87,8 @@ Specific standards coverage:
 
 1. [ ] Learning by getting things wrong
    - failing as a tool
-   - test driven development
    - discovery learning
+   - test driven development
    - Reading: Selections from Shore and Watson
    - CT 9
    - NSD 3
