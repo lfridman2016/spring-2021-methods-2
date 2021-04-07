@@ -80,24 +80,25 @@ Specific standards coverage:
      strength to enhance student learning of CS.
    - DL 2,3,4,5,7
 
-1. [ ] Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
-  - verifying assignments and student work
-  - good vs bad resources for students (stack overflow)
-  - Reading: Calif and Goodwin
-
-1. [ ] Using Collaborative tools
-   - SysAdmin and SiteAdmin in the CS classroom
-   - Repl.it / Scratch vs local hosting (pair programming for example)
-   - Reading: Griffin and Seals
-   - Assignment: Create github classroom with feedback and grading mechanism
-   - DL 2,3,4,5,7
+1. [x] Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
+    - verifying assignments and student work
+    - good vs bad resources for students (stack overflow)
+    - Reading: Calif and Goodwin
 
 1. [ ] Learning by getting things wrong
+   - failing as a tool
    - test driven development
    - discovery learning
    - Reading: Selections from Shore and Watson
    - CT 9
    - NSD 3
+
+1. [ ] Using Collaborative tools
+  - SysAdmin and SiteAdmin in the CS classroom
+  - Repl.it / Scratch vs local hosting (pair programming for example)
+  - Reading: Griffin and Seals
+  - Assignment: Create github classroom with feedback and grading mechanism
+  - DL 2,3,4,5,7
 
 1. [ ] HW , Assessment, and project design
    - Spirlaing in CS
