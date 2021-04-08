@@ -5,6 +5,16 @@
 #### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
+### Session 8: 4/07
+  * title **tdd**
+  * Create a programming task in python that requires students to write a complex function.
+    - The function should have multiple potential results based on different inputs.
+  * Write a series of tests that could be used to direct your students through this function using Test Driven Development.
+    - Include full versions of your function that would satisfy the given test. So if you have 6 tests, there should be 6 versions of the function.
+  * Write a programming task for students that asks them to use Test Driven Design.
+    - Different from berfore, the whole task should be provided for the students.
+    - Also different, the students need to come up with the tests.
+    - An important thing to consider is.
 
 ### Session 7: 3/24
   * title **google**
