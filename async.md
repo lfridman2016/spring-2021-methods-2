@@ -1,4 +1,12 @@
 # Asynchronous Activities
+### Session 8: 4/07
+In the \#meth2_async channel:
+  * In a remote teaching environment, it's easy to use tools like peardeck to get immediate and private feedback to help guide your lesson. Alex did a great job explaining how he uses that data when teaching. Give some options of how you could gatehr that same kind of infomration during an in-person class (consider the students don't all have access to a computer, so using peardeck wouldn't work).
+
+### Session 7: 3/24
+In the \#meth2_async channel either:
+  * Find an active open source project that you could show to a class you are/would be in the future teaching.
+  * Share a link to the project in general, along with a link to the project's feedback apparatus (on github, this would be found under Issues) that shows a contributor providing a feature/patch/bugfix that was approved and added to the main program.
 
 ### Session 6: 3/17
 In the \#meth2_async channel either:
