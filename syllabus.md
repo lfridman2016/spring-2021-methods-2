@@ -85,7 +85,7 @@ Specific standards coverage:
     - good vs bad resources for students (stack overflow)
     - Reading: Calif and Goodwin
 
-1. [ ] Learning by getting things wrong
+1. [x] Learning by getting things wrong
    - failing as a tool
    - discovery learning
    - test driven development
@@ -93,8 +93,7 @@ Specific standards coverage:
    - CT 9
    - NSD 3
 
-1. [ ] Using Collaborative tools
-  - SysAdmin and SiteAdmin in the CS classroom
+1. [x] Using Collaborative tools
   - Repl.it / Scratch vs local hosting (pair programming for example)
   - Reading: Griffin and Seals
   - Assignment: Create github classroom with feedback and grading mechanism
@@ -115,13 +114,6 @@ Specific standards coverage:
    -  Reading: Griffin
    -  Reading: Santo
    - CT 4,5,7
-
-1. [ ] Teaching CS problem solving strategies
-   -  Decomposing problems
-   -  Code tracing
-   -  Usign examples
-   -  Defining subproblems
-
 
 1. [ ] Student Sample Lessons
 1. [ ] Student Sample Lessons

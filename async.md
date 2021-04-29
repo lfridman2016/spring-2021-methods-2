@@ -1,4 +1,9 @@
 # Asynchronous Activities
+
+### Session 10: 4/28
+In the \#meth2_async channel:
+  * Create a post describing what you feel the purpose of homework is, and what kinds of assignments match that purpose.
+
 ### Session 8: 4/07
 In the \#meth2_async channel:
   * In a remote teaching environment, it's easy to use tools like peardeck to get immediate and private feedback to help guide your lesson. Alex did a great job explaining how he uses that data when teaching. Give some options of how you could gatehr that same kind of infomration during an in-person class (consider the students don't all have access to a computer, so using peardeck wouldn't work).
@@ -26,7 +31,7 @@ In the \#meth2_async channel:
 * In the \#meth2_async channel:
   * Provide your reaction to the suggestions made in the episode. Do you agree with the general sentiment or not? Do yo have specific points of agreemnt/disagreement?
   * For those of you currently teaching: Do you think that you would be able to implement some of these ideas in your class? If not, what would keep you from doing so?
-  *
+
 ### Session 2: 2/17
 In the \#meth2_async channel:
   * Post 2 data sets that are of interest to you.
