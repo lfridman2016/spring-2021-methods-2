@@ -8,13 +8,14 @@
 
 ### Session 10: 4/28
   * title **groups**
-  * You've assigned a large, open-ended, 4 person group project. Come up with some strategies to make sure that work is being done equitably amongst the group.
-  * Some situations to consider (as well as others)
-    - A student takes total control over the group and does most/all of the work.
-    - A student disengages from group and does little/no work.
-    - Students are willing to do work, but have to wait for other parts of the project to be done first, so they have nothing to do.
-    - Students work on the project together mostly, but at the end one student puts in a lot of work (to fix a bug, add pet feature ...)
-  * In addition to managing group dynamics, time managent is important in long term projects. Come up with some strategies that will help students use their time wisely.
+  * In a markdown file, respond to the following:
+    * You've assigned a large, open-ended, 4 person group project. Come up with some strategies to make sure that work is being done equitably amongst the group.
+    * Some situations to consider (as well as others)
+      - A student takes total control over the group and does most/all of the work.
+      - A student disengages from group and does little/no work.
+      - Students are willing to do work, but have to wait for other parts of the project to be done first, so they have nothing to do.
+      - Students work on the project together mostly, but at the end one student puts in a lot of work (to fix a bug, add pet feature ...)
+    * In addition to managing group dynamics, time managent is important in long term projects. Come up with some strategies that will help students use their time wisely.
 
 
 ### Session 8: 4/07

@@ -99,7 +99,7 @@ Specific standards coverage:
   - Assignment: Create github classroom with feedback and grading mechanism
   - DL 2,3,4,5,7
 
-1. [ ] HW , Assessment, and project design
+1. [x] HW , Assessment, and project design
    - Spirlaing in CS
    - multi-stage assignments
    - Assignment management over time
