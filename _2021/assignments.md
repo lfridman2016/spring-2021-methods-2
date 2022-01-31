@@ -6,6 +6,11 @@
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
 
+### Lesson Presentation
+  * Include a pdf of the google sides used for your lesson presentation in your github classroom repository.
+    - Also add any code files or supplimental materials.
+    -
+
 ### Session 10: 4/28
   * title **groups**
   * In a markdown file, respond to the following:
