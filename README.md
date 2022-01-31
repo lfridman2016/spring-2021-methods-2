@@ -1,11 +1,11 @@
 # SEDC 72900: Computer Science Teaching Methods II
 
-### Sessions: Wednesdays 7:10 - 8:15
+### Sessions: Mondays 7:10 - 8:15
 ### Department Of Curriculum & Teaching / Computer Science Education
 ### Hunter College, Cuny
-### Spring Semester 2020
+### Spring Semester 2022
 ### Professor Jonalf Dyrland-Weaver
-### Office Hours: Wednesdays 3-4 and By Appointment
+### Office Hours: Tuesdays 4-5 and By Appointment
 ### Email jd5122@hunter.cuny.edu
 
 ### Class Zoom link: https://us02web.zoom.us/j/84164632962?pwd=VEtmUnp5VEhYdXRBRGU3SFc1YXpwUT09
@@ -13,4 +13,3 @@
 
 ### Asynchronous Activities: [async.md](async.md)
 ### Assignments: [assignments.md](assignments.md)
-### Demo Activities: [demos.md](demos.md)
