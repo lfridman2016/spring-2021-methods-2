@@ -1,5 +1,12 @@
 # Asynchronous Activities
 
+### Session 2:2/14
+In the \#meth2_async channel:
+  * I will make your work repos visibile for everyone.
+  * There will be thread starters for each breakout room from today's class.
+  * Each person should post a link to their assignment in github in the correct thread.
+  * Actually do one of the other assignments from someone in your group, then provide feedback based on having done the assignment.
+
 ### Session 1: 2/07
 In the \#meth2_async channel:
   * Post 2 data sets that are of interest to you.

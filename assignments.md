@@ -5,6 +5,14 @@
 #### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
+### Session 02: 2/14
+  * title: **think_different.md**
+  * Describe 3 diffferent strategies for implementing differentiation in a CS class.
+  * Things to consider
+    - What are you differentiating for (ability, interest, learning style preference...)?
+    - Are students being grouped? If so, how?
+    - What is the goal of differentiation for this specific strategy?
+    - Anything else you deem important
 
 ### Session 01: 2/7
   * title: **data**
