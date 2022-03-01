@@ -1,6 +1,14 @@
 # Asynchronous Activities
 
-### Session 2:2/14
+### Session 2: 2/28
+In the \#meth2_async channel:
+  * In your breakout groups, select a programming based assignment you would give to students.
+    - Scope-wise, consider a single in-class or homework level of assignment, nothing too big.
+  * As a group, create scaffolding for the assignment.
+  * Keep the discussion to your own groups thread.
+  * Have one person put the final scaffold
+
+### Session 2: 2/14
 In the \#meth2_async channel:
   * I will make your work repos visibile for everyone.
   * There will be thread starters for each breakout room from today's class.
