@@ -6,6 +6,11 @@
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
 
+###  Session 04: 3/07
+  * title: **grading_schema.md**
+  * Look at the python lab files here: https://github.com/hunter-teacher-cert/spring-2021-methods-2/tree/main/resources
+  * Pick a lab, and create a grading schema for it. Assume you can assign any kind of grade you want.
+
 ### Session 03: 2/28
   * title: **equity_grading.md**
   * Listen to the following podcast on grading (35 minutes): https://sites.duke.edu/csedpodcast/2021/02/15/season-2-episode-4-grading-for-equity/

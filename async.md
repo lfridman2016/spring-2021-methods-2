@@ -1,6 +1,11 @@
 # Asynchronous Activities
 
-### Session 2: 2/28
+### Session 4: 3/07
+In the \#meth2_async channel:
+  * https://grading4learning.github.io/workbook/practice/cases.html
+  * Pick one of the case studies provided and answer the 5 questions listed on the page linked above.
+
+### Session 3: 2/28
 In the \#meth2_async channel:
   * In your breakout groups, select a programming based assignment you would give to students.
     - Scope-wise, consider a single in-class or homework level of assignment, nothing too big.
