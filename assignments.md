@@ -6,6 +6,17 @@
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ---
 
+### Session 06: 3/21
+  * title **daily_digital**
+  * Go out in the world, and find a piece of current tech news
+    - As Alex noted: relevancy is key, old articles can be "current".
+  * In a markdown document, provide the following informaiton about your news:
+    - source(s)
+    - breif description
+      - cover the major points, imaigne you were going to lead a ~5min discussion on this, what should you cover to do so
+    - why did you select this story?
+  * In addition to your news and writeup, provide 3 websites that you would send students to in order to find good tech news.
+
 ###  Session 04: 3/07
   * title: **grading_schema.md**
   * Look at the python lab files here: https://github.com/hunter-teacher-cert/spring-2021-methods-2/tree/main/resources

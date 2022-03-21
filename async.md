@@ -1,5 +1,13 @@
 # Asynchronous Activities
 
+### Session 6: 3/21
+  * Work with your collaborative planning teams.
+  * Come up with the topic of your lesson (each person).
+  * You don't need to have the discussions on slack, but each person should update the thread started last week with their lesson topic once you've figured it out.
+
+### Session 5: 3/14
+  * Over this course of this week 3/14 - 3/21, talk with your groups and come up with the common thread for your lessons. As a reminder, the lessons do not need to be in sequence (and probably shouldn’t), but it should be clear after seeing the lessons what the common thread is.
+
 ### Session 4: 3/07
 In the \#meth2_async channel:
   * https://grading4learning.github.io/workbook/practice/cases.html
