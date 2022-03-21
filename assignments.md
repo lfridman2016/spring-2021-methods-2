@@ -9,7 +9,6 @@
 ### Session 06: 3/21
   * title **daily_digital**
   * Go out in the world, and find a piece of current tech news
-    - As Alex noted: relevancy is key, old articles can be "current".
   * In a markdown document, provide the following informaiton about your news:
     - source(s)
     - breif description
